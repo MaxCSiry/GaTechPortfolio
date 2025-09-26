@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Downloads/IMG_8218"
+profile_picture = "IMG_8218.jpg"
 about_me = "I'm Maximilian Siry. I study at the Georgia Institute of Technology and I major in Mathematics. "
 
 
