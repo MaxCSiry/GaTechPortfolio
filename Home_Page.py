@@ -1,4 +1,5 @@
 import streamlit as st
+import panda as pd
 
 # Title of App
 st.title("Web Development Lab01")
