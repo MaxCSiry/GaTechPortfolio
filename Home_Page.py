@@ -11,6 +11,10 @@ st.header("CS 1301")
 st.subheader("Web Development - Section E")
 st.subheader("Maximilian Siry")
 
+st.page_link("your_app.py", label="Home")
+st.page_link("pages/info.py", label="Spongebob's Portfolio")
+st.page_link("pages/Maximilian's Portfolio.py", label="Maximilian's Portfolio", disabled=True)
+
 
 # Introduction
 # TODO: Write a quick description for all of your pages in this lab below, in the form:
