@@ -35,7 +35,7 @@ experience_data = {
                                                                           "- Helped to increase productivity", "- Made Mrs. Watson happy"],"),
     "Volunteer for St. Lawrence Catholic Church":(["- Was an effective peer teen leader, and altar server",
                                                            "- Helped to have clear and clean masses for 8 years"]),
-    "Jelly Fish Catcher":(["- Caught 100+ Jellyfish with the help of my colleague Patrick"],"Images/jelly.jpg")
+
 
 }
 
