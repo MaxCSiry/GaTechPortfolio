@@ -1,6 +1,5 @@
-pip install streamlit pandas
 import streamlit as st
-import panda as pd
+import pandas as pd
 
 # Title of App
 st.title("Web Development Lab01")
